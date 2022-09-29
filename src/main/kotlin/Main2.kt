@@ -1,3 +1,4 @@
+/*
 open class Animal {
     open var color: String = ""
     open fun eat() = println("Eat")
@@ -46,3 +47,5 @@ fun main() {
     println("age = ${cat.age}, color = ${cat.color} ")
 
 }
+
+ */
